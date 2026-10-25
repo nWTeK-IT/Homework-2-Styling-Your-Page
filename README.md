@@ -27,9 +27,11 @@ Sections: Separate the welcome message, animation, and other content.
 
 Footer: Contains a LinkedIn link labeled "Job Opportunities?" and a copyright notice.
 
+
 I also added classes and an ID to the HTML elements so they could be styled individually through CSS.
 
 The index.html file links to the external style.css stylesheet.
+
 
 CSS Styling Changes
 
@@ -58,6 +60,7 @@ Death Note Font: Used for major headings to create a gothic appearance.
 EB Garamond: Used for supporting text and other content to improve readability.
 
 4. Colors
+   
 
 I chose a dark color scheme inspired by Death Note.
 
@@ -73,6 +76,7 @@ Muted green (#6f9b82) for the LinkedIn hover effect
 
 The crimson and green accents provide complementary colors while maintaining the dark appearance of the website.
 
+
 5. CSS Box Model
 
 I practiced using margins, padding, and borders on multiple elements.
@@ -87,6 +91,7 @@ Footer: Added padding, a top border, and spacing above it.
 
 This helped me understand how spacing and borders affect the placement of elements on a webpage.
 
+
 6. Header and Navigation Layout
 
 I used CSS Grid to organize the header into three columns:
@@ -98,6 +103,7 @@ Website title in the center
 Navigation links on the right
 
 I also used Flexbox to arrange the navigation links horizontally with spacing between them.
+
 
 7. Hover Effects and Transitions
 
@@ -113,9 +119,11 @@ CSS transitions make the color and size changes appear smoother.
 
 I also removed the underline from the LinkedIn link for a cleaner appearance.
 
+
 8. Footer Styling
 
 I centered the footer content, added spacing, created a gray top border, and adjusted the copyright text size.
+
 
 Assignment Requirements
 
@@ -129,6 +137,7 @@ Complementary accent colors included in the color scheme
 
 Intentionally styled webpage with a consistent theme
 
+
 Files
 
 index.html – Main HTML webpage
@@ -136,6 +145,7 @@ index.html – Main HTML webpage
 style.css – External CSS stylesheet
 
 images/Codenote.png – Website logo
+
 
 Future Improvements
 
@@ -150,6 +160,7 @@ Improving the LinkedIn and contact buttons
 Expanding the About and Projects pages
 
 Continuing to improve the website's appearance and functionality
+
 
 What I Learned
 
